@@ -136,20 +136,7 @@ MovieRentalAPI/
 
 ---
 
-## 🛠️ Tech Stack
 
-| Technology | Version | Purpose |
-|-----------|---------|---------|
-| .NET | 8.0 | Runtime Framework |
-| ASP.NET Core | 8.0 | Web API Framework |
-| Entity Framework Core | 8.0 | ORM |
-| SQL Server | 2019+ | Database |
-| AutoMapper | 12.0+ | Object Mapping |
-| FluentValidation | 11.3+ | Data Validation |
-| Serilog | 3.1+ | Structured Logging |
-| Swagger/OpenAPI | 6.0+ | API Documentation |
-
----
 
 ## 📦 Prerequisites
 
